@@ -1,0 +1,18 @@
+{
+    "app_name":{
+        "en":"ShopEzy",
+        "hi":"शॉपइजी"
+    },
+    "passcode_label":{
+        "en":"Enter Passcode To Get Started",
+        "hi":"आरंभ करने के लिए पासकोड दर्ज करे"
+    },
+    "forget_password_txt":{
+        "en":"New User ?",
+        "hi":"नए उपयोगकर्ता ?"
+    },
+    "reset_now_btn":{
+        "en":"Register",
+        "hi":"रजिस्टर करें"
+    }
+}
